@@ -1,4 +1,4 @@
-# DOM-Element-Factory
+# A DOM Element factory with vanilla Javascript (ES6)
 There are three basic parts to any DOM element: the type of element it is, any attributes we need the element to have, and any children of the element. Knowing this, we can start to write our factory function. knowing this, it is easy to create a constructor function of elements.
 
 #### Function
